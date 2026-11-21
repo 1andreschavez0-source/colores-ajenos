@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Grupo_4_luminance.png",
+  "resources": {
+    "originalImage": "Grupo_4_original.png",
+    "croppedImage": "Grupo_4_cropped.png",
+    "thumbnailImage": "Grupo_4_thumbnail.png",
+    "luminanceImage": "Grupo_4_luminance.png"
+  },
+  "name": "Grupo_4",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 166,
+    "left": 0,
+    "width": 764,
+    "height": 1019,
+    "isRotated": false,
+    "originalWidth": 764,
+    "originalHeight": 1350
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795219246767,
+  "updated": 1795219246767
+}

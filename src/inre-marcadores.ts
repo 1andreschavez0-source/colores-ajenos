@@ -1,5 +1,11 @@
 import * as ecs from '@8thwall/ecs'
 import marcador0 from '../image-targets/1.json'
+import marcador1 from '../image-targets/Grupo_1.json'
+import marcador2 from '../image-targets/Grupo_2.json'
+import marcador3 from '../image-targets/Grupo_3.json'
+import marcador4 from '../image-targets/Grupo_4.json'
+import marcador5 from '../image-targets/Grupo_5.json'
+import marcador6 from '../image-targets/Grupo_6.json'
 
 /**
  * Carga los marcadores de imagen en el motor, y se queda vigilando que sigan puestos.
@@ -47,7 +53,7 @@ interface XrEngine {
 
 const engine = (): XrEngine | undefined => (window as unknown as {XR8?: XrEngine}).XR8
 
-const marcadores: unknown[] = [marcador0]
+const marcadores: unknown[] = [marcador0, marcador1, marcador2, marcador3, marcador4, marcador5, marcador6]
 
 /**
  * Cuántos marcadores se cargan en el primer paso.
@@ -64,7 +70,7 @@ const marcadores: unknown[] = [marcador0]
  * │ 8th Wall: «only loading image targets when you need them».                  │
  * └─────────────────────────────────────────────────────────────────────────────┘
  */
-const SEMILLA = 1
+const SEMILLA = 3
 
 /**
  * Los que el navegador ha conseguido cargar. Es la lista que ve el motor: uno cuya

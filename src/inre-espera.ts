@@ -6,7 +6,7 @@
  * lienzo. Si algo falla dentro, se retira sola para no dejar la pantalla tapada.
  */
 
-const MARCADORES = ["1"]
+const MARCADORES = ["1","Grupo_1","Grupo_2","Grupo_3","Grupo_4","Grupo_5","Grupo_6"]
 
 /**
  * Cuenta las descargas en curso de archivos del proyecto (assets/ o blobs) para
