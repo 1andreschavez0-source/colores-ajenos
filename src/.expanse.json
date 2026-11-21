@@ -29,7 +29,7 @@
         1
       ]
     },
-    "24282d3f-5776-4fa0-b95e-ba053485ff96": {
+    "1554f917-1720-492b-a826-0a446c696019": {
       "components": {
         "__inre_aparicion__": {
           "id": "__inre_aparicion__",
@@ -48,122 +48,18 @@
         "width": 1,
         "height": 0.5625
       },
-      "id": "24282d3f-5776-4fa0-b95e-ba053485ff96",
+      "id": "1554f917-1720-492b-a826-0a446c696019",
       "material": {
         "type": "video",
         "color": "#ffffff",
         "textureSrc": {
           "type": "asset",
-          "asset": "assets/Escena_2_con_sonido.mp4"
+          "asset": "assets/Escena_1.mp4"
         }
       },
-      "name": "Escena_2_con_sonido",
-      "order": 0.8744228273427929,
-      "parentId": "56a507dd-8b44-4815-94c6-f4b629ce9729",
-      "position": [
-        0,
-        -5.551115123125783e-17,
-        0.081
-      ],
-      "rotation": [
-        -4.548684559160062e-113,
-        -1.3684555315672072e-48,
-        3.323954965457106e-65,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
-    },
-    "2cf4830d-71b6-4f90-8a64-34178ebe308f": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "2cf4830d-71b6-4f90-8a64-34178ebe308f",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Escena_1_con_sonido.mp4"
-        }
-      },
-      "name": "Escena_1_con_sonido",
-      "order": 0.7673473592638607,
+      "name": "Escena_1",
+      "order": 0.26391426249496164,
       "parentId": "80a3baf6-4467-4028-bbdf-280b8181d552",
-      "position": [
-        0,
-        -1.3877787807814457e-17,
-        0.08100000000000002
-      ],
-      "rotation": [
-        1.1102230246251565e-16,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
-    },
-    "3ddfe846-9ed4-4001-8ca0-08b56bf7ac21": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "3ddfe846-9ed4-4001-8ca0-08b56bf7ac21",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Escena_5_con_sonido.mp4"
-        }
-      },
-      "name": "Escena_5_con_sonido",
-      "order": 0.34275075652233733,
-      "parentId": "cc8ce20f-9b91-4f1b-a247-4e2780e1ca9c",
       "position": [
         0,
         -1.3877787807814457e-17,
@@ -174,6 +70,162 @@
         0,
         1.2246467991473532e-16,
         -1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "1ac04652-0012-4109-8e60-d4884f660faf": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "1ac04652-0012-4109-8e60-d4884f660faf",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Escena_2.mp4"
+        }
+      },
+      "name": "Escena_2",
+      "order": 0.2830840545749468,
+      "parentId": "56a507dd-8b44-4815-94c6-f4b629ce9729",
+      "position": [
+        0,
+        -5.551115123125783e-17,
+        0.081
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "38c46c52-90fb-4ffe-871b-72c137d962bf": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "38c46c52-90fb-4ffe-871b-72c137d962bf",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Escena_6.mp4"
+        }
+      },
+      "name": "Escena_6",
+      "order": 0.9470402812374961,
+      "parentId": "a027ace1-db6e-479d-a4f0-dc0089458c2c",
+      "position": [
+        0,
+        -1.3877787807814457e-17,
+        0.08100000000000002
+      ],
+      "rotation": [
+        1.1102230246251565e-16,
+        0,
+        1.2246467991473532e-16,
+        -1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "42a51538-5b69-421c-8604-de8dd7747247": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "42a51538-5b69-421c-8604-de8dd7747247",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Escena_4.mp4"
+        }
+      },
+      "name": "Escena_4",
+      "order": 0.20239950908217763,
+      "parentId": "10084fa7-f95a-43a3-99ae-f72f2c8ba590",
+      "position": [
+        0,
+        -1.3877787807814457e-17,
+        0.08100000000000002
+      ],
+      "rotation": [
+        5.551115123125783e-17,
+        5.551115123125783e-17,
+        -0.7071067811865475,
+        0.7071067811865477
       ],
       "scale": [
         1,
@@ -212,6 +264,58 @@
         1,
         1
       ]
+    },
+    "6a0ab4b0-e25e-4aee-a204-0e0562d53fc8": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "6a0ab4b0-e25e-4aee-a204-0e0562d53fc8",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Escena_5.mp4"
+        }
+      },
+      "name": "Escena_5",
+      "order": 0.1928191106360626,
+      "parentId": "cc8ce20f-9b91-4f1b-a247-4e2780e1ca9c",
+      "position": [
+        0,
+        -1.3877787807814457e-17,
+        0.08100000000000002
+      ],
+      "rotation": [
+        1.1102230246251565e-16,
+        0,
+        1.2246467991473532e-16,
+        -1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
     },
     "78992a78-20be-439a-b467-15a7a1fd6557": {
       "components": {},
@@ -354,7 +458,7 @@
         1
       ]
     },
-    "b3c59238-09de-4043-898c-0989ef963b9d": {
+    "c6b4bca3-e990-4bc7-964d-786f3119f553": {
       "components": {
         "__inre_aparicion__": {
           "id": "__inre_aparicion__",
@@ -373,28 +477,28 @@
         "width": 1,
         "height": 0.5625
       },
-      "id": "b3c59238-09de-4043-898c-0989ef963b9d",
+      "id": "c6b4bca3-e990-4bc7-964d-786f3119f553",
       "material": {
         "type": "video",
         "color": "#ffffff",
         "textureSrc": {
           "type": "asset",
-          "asset": "assets/Escena_3_con_sonido.mp4"
+          "asset": "assets/Escena_3.mp4"
         }
       },
-      "name": "Escena_3_con_sonido",
-      "order": 0.24066090876804613,
+      "name": "Escena_3",
+      "order": 0.11247229139373005,
       "parentId": "8dc64136-4be5-4391-9108-4ce10be480c1",
       "position": [
         0,
-        -5.551115123125783e-17,
-        0.081
+        -1.3877787807814457e-17,
+        0.08100000000000002
       ],
       "rotation": [
         0,
-        0,
-        -0.7071067811865475,
-        0.7071067811865476
+        -5.551115123125783e-17,
+        0.707106781186551,
+        -0.7071067811865442
       ],
       "scale": [
         1,
@@ -434,58 +538,6 @@
         1
       ]
     },
-    "d0630a06-37b1-4822-b447-e19a77297e92": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "d0630a06-37b1-4822-b447-e19a77297e92",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Escena_4_con_sonido.mp4"
-        }
-      },
-      "name": "Escena_4_con_sonido",
-      "order": 0.9621033237409826,
-      "parentId": "10084fa7-f95a-43a3-99ae-f72f2c8ba590",
-      "position": [
-        0,
-        -1.3877787807814457e-17,
-        0.08100000000000002
-      ],
-      "rotation": [
-        1.071899835558554e-8,
-        -1.035121638404135e-8,
-        -0.707106781186549,
-        0.7071067811865462
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
-    },
     "decf06c4-ae3e-4bf0-84a2-dd1d2435aae5": {
       "camera": {
         "type": "perspective",
@@ -523,58 +575,6 @@
         1,
         1
       ]
-    },
-    "e55c32c5-200e-4252-b594-6c8bd3bc84ff": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.664,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": true,
-            "esVideo": true
-          }
-        }
-      },
-      "geometry": {
-        "type": "plane",
-        "width": 1,
-        "height": 0.5625
-      },
-      "id": "e55c32c5-200e-4252-b594-6c8bd3bc84ff",
-      "material": {
-        "type": "video",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Escena_6_con_sonido.mp4"
-        }
-      },
-      "name": "Escena_6_con_sonido",
-      "order": 0.7755330383535753,
-      "parentId": "a027ace1-db6e-479d-a4f0-dc0089458c2c",
-      "position": [
-        0,
-        -1.3877787807814457e-17,
-        0.08100000000000002
-      ],
-      "rotation": [
-        1.1102230246251565e-16,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "videoControls": {
-        "loop": true,
-        "paused": false
-      }
     }
   },
   "spaces": {
